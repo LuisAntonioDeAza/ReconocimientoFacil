@@ -1,0 +1,13 @@
+C:\Users\LUIS ANTONIO DE AZA\Desktop\Renocimiento facial Tu Codigo\Renocimiento facial Tu Codigo\bin\Debug\Renocimiento facial Tu Codigo.exe.config
+C:\Users\LUIS ANTONIO DE AZA\Desktop\Renocimiento facial Tu Codigo\Renocimiento facial Tu Codigo\bin\Debug\Renocimiento facial Tu Codigo.exe
+C:\Users\LUIS ANTONIO DE AZA\Desktop\Renocimiento facial Tu Codigo\Renocimiento facial Tu Codigo\bin\Debug\Renocimiento facial Tu Codigo.pdb
+C:\Users\LUIS ANTONIO DE AZA\Desktop\Renocimiento facial Tu Codigo\Renocimiento facial Tu Codigo\obj\Debug\pp.csprojAssemblyReference.cache
+C:\Users\LUIS ANTONIO DE AZA\Desktop\Renocimiento facial Tu Codigo\Renocimiento facial Tu Codigo\obj\Debug\Renocimiento_facial_Tu_Codigo.Form1.resources
+C:\Users\LUIS ANTONIO DE AZA\Desktop\Renocimiento facial Tu Codigo\Renocimiento facial Tu Codigo\obj\Debug\Renocimiento_facial_Tu_Codigo.frmReconocedorF.resources
+C:\Users\LUIS ANTONIO DE AZA\Desktop\Renocimiento facial Tu Codigo\Renocimiento facial Tu Codigo\obj\Debug\Renocimiento_facial_Tu_Codigo.Properties.Resources.resources
+C:\Users\LUIS ANTONIO DE AZA\Desktop\Renocimiento facial Tu Codigo\Renocimiento facial Tu Codigo\obj\Debug\Renocimiento_facial_Tu_Codigo.Registrar.resources
+C:\Users\LUIS ANTONIO DE AZA\Desktop\Renocimiento facial Tu Codigo\Renocimiento facial Tu Codigo\obj\Debug\pp.csproj.GenerateResource.cache
+C:\Users\LUIS ANTONIO DE AZA\Desktop\Renocimiento facial Tu Codigo\Renocimiento facial Tu Codigo\obj\Debug\pp.csproj.CoreCompileInputs.cache
+C:\Users\LUIS ANTONIO DE AZA\Desktop\Renocimiento facial Tu Codigo\Renocimiento facial Tu Codigo\obj\Debug\pp.csproj.CopyComplete
+C:\Users\LUIS ANTONIO DE AZA\Desktop\Renocimiento facial Tu Codigo\Renocimiento facial Tu Codigo\obj\Debug\Renocimiento facial Tu Codigo.exe
+C:\Users\LUIS ANTONIO DE AZA\Desktop\Renocimiento facial Tu Codigo\Renocimiento facial Tu Codigo\obj\Debug\Renocimiento facial Tu Codigo.pdb
