@@ -41,9 +41,10 @@
             // label1
             // 
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 50F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(94, 48);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(760, 106);
+            this.label1.Size = new System.Drawing.Size(514, 106);
             this.label1.TabIndex = 20;
             this.label1.Text = "Cargando...";
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -52,8 +53,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(122)))), ((int)(((byte)(204)))));
-            this.ClientSize = new System.Drawing.Size(866, 192);
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(100)))), ((int)(((byte)(100)))));
+            this.ClientSize = new System.Drawing.Size(698, 192);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Margin = new System.Windows.Forms.Padding(4);
